@@ -1,0 +1,2 @@
+# cgod.github.io
+Blog
